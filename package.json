@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-alchemy",
+  "name": "eslintConfig",
   "version": "0.1.13",
   "description": "ESLint规则配置",
   "main": "index.js",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/IceEnd/eslint-config-alchemy"
+    "url": "https://github.com/yanlp/eslintConfig"
   },
   "author": "Alchemy",
   "license": "MIT",
