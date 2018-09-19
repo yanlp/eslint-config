@@ -1,5 +1,5 @@
 {
-  "name": "eslintConfig",
+  "name": "eslint-config",
   "version": "0.1.13",
   "description": "ESLint规则配置",
   "main": "index.js",
